@@ -4,7 +4,7 @@
  
  Bem vindo ao meu perfil GitHub 👋
  
- Meu email de contato é martins.yara@escola.pr.gov.br
+ Meu email de contato é [email](martins.yara@escola.pr.gov.br)
  
  Eu estou interessado em aprender novas linguagens.
  
